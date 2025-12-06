@@ -1,0 +1,46 @@
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  text-decoration: none;
+  border-radius: 50px;
+  cursor: pointer;
+  outline: none;
+  margin-top: 1em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+/* Primary button style */
+.btn-primary {
+  color: #fff;
+  background: #16a083;
+}
+
+.btn-primary:hover {
+  background: #117964;
+  transition: background 0.3s ease-in-out;
+}
+
+/* Container styling */
+.container {
+  max-width: 1200px;
+  width: 90%;
+  margin: auto;
+
+  /* Buy link styling if using <a> instead of button */
+  .buy-link {
+    display: inline-block;
+    padding: 0.5em 1.2em;
+    background-color: #16a083;
+    color: #fff;
+    border-radius: 50px;
+    text-decoration: none;
+    margin-top: 10px;
+    font-weight: 500;
+  }
+
+  .buy-link:hover {
+    background-color: #117964;
+    transition: 0.3s ease-in-out;
+  }
