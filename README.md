@@ -4,5 +4,5 @@ Plant leaf diseases can significantly reduce crop productivity. This project use
 The system is built with TensorFlow/Keras, and includes a Flask web application where users can upload an image and get the predicted disease along with recommended supplements.
 <h2>Dataset</h2>
 The dataset used in this project is publicly available on Kaggle:  
-👉 [New Plant Diseases Dataset (Kaggle)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+👉 [link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
