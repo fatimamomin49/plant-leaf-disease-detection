@@ -3,6 +3,5 @@
 Plant leaf diseases can significantly reduce crop productivity. This project uses Deep Learning (VGG19) to automatically detect plant diseases from leaf images.
 The system is built with TensorFlow/Keras, and includes a Flask web application where users can upload an image and get the predicted disease along with recommended supplements.
 <h2>Dataset</h2>
-The dataset used in this project is publicly available on Kaggle:  
-👉 [link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
-
+The dataset used in this project is publicly available on Kaggle: 
+[Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset).
